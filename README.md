@@ -12,7 +12,7 @@ _Hello there this is **Hansol Cha**._
 <table width="100" align='center'>
 <tr>
     <td align='center' width="60">
-        <a href="https://www.instagram.com/hscha.kor/"><img src="https://cdn-icons-png.flaticon.com/512/1409/1409946.png"></a>
+        <a href="https://www.instagram.com/hansol.kor/"><img src="https://cdn-icons-png.flaticon.com/512/1409/1409946.png"></a>
     </td>
     <td align='center' width="60">
         <a href="www.linkedin.com/in/hansol-cha-830082127"><img src="https://cdn-icons-png.flaticon.com/512/1409/1409945.png" width="60"></a>
